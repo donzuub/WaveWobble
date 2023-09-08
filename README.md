@@ -2,8 +2,6 @@
 
 WaveWobble is a TypeScript library designed to help analyze and manage jitter, a common phenomenon in electronics and signal processing.
 
-![WaveWobble Logo](path/to/logo/if/you/have/one.png)
-
 ## Features
 
 - **Easy Initialization:** Create Jitter instances with ease.
