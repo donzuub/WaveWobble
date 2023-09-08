@@ -9,7 +9,6 @@ WaveWobble is a TypeScript library designed to help analyze and manage jitter, a
 - **Easy Initialization:** Create Jitter instances with ease.
 - **Comprehensive Analysis:** From Time Interval Error (TIE) to N-Cycle Jitter.
 - **Versatile Utilities:** Additional utility functions for common tasks.
-- **Robust Testing:** Rigorous unit testing ensures reliability.
 
 ## Installation
 
